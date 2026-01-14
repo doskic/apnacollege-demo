@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my  first Repository.
 <br>
-auther - aayush saini
+auther - aayush kumar saini
